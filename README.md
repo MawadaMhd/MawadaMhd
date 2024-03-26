@@ -1,4 +1,3 @@
-![](https://github.com/NawadaMhd/MawadaMHD/blob/main/github-header-image.png)
 <h1 align="center">Hi there 👋! I'm Mawada Muzzammil</h1>
 
 <h3 align="center"><i>Data Scientist and research</i></h3>
