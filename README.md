@@ -1,6 +1,8 @@
-<h1 align="center">Hi there 👋! I'm Mawada Muzzammil</h1>
+[images.jpg](https://github.com/MawadaMhd/MawadaMhd/blob/main/Images/images.jpg)
 
-<h3 align="center"><i>Data Scientist and researcher</i></h3>
+<h1 align="center">Hello there 👋! I'm Mawada Muzzammil</h1>
+
+<h3 align="center"><i>Data Scientist and Researcher</i></h3>
 
 <div align="center">
   
