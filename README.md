@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋! I'm Mawada Muzzammil</h1>
 
-<h3 align="center"><i>Data Scientist and research</i></h3>
+<h3 align="center"><i>Data Scientist and researcher</i></h3>
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 # **SUMMARY**
 
-* A dedicated Data Scientist with a strong background in statistical analysis, machine learning, and data visualization
+* A dedicated Data Scientist with a strong background in statistical analysis, machine learning, data visualization, and biomedical research
 * Proficient in python programming language
 * Proven track record of developing predictive models
 * Strong problem-solving skills and a passion for continuous learning and professional development
