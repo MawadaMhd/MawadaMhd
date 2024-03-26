@@ -31,24 +31,19 @@ Bachelor's degree (Honors – First class) – Medical Laboratory Science – Hi
 
 **NLP**
 
-**Binary classification**
+## [Classification](https://github.com/MawadaMhd/Classification)
 
 *	Tumors Benign\Malignant Classification (Accuracy: 99%, F1 Score (0.98, 0.99)
-*	Cardiovascular Disease Prediction (Accuracy: 98%, F1 Score (0.98, 0.99)
+*	[Cardiovascular Disease Prediction (Accuracy: 98%, F1 Score (0.98, 0.99)](https://github.com/MawadaMhd/Classification/tree/main/Cardiovascular%20Disease%20Predictive%20Modelling)
 *	Obesity Level Prediction (Accuracy: 91%, F1 Score (0.91, 0.89)
 *	Adults Income Prediction (Accuracy: 82.5%, F1 Score (0.82, 0.82)
 *	Cervical Cancer Prediction (Accuracy: 95%, F1 Score (0.97, 0.69)
 *	Credit Card Fraud Detection (Accuracy: 93%, F1 Score (0.96, 0.97)
-*	Diabetes Health Indicators (Accuracy: 75%, F1 Score (0.75, 0.74)
-•	(link)
-
-**Multi-class classification**
- 	
+*	Diabetes Health Indicators (Accuracy: 75%, F1 Score (0.75, 0.74)	
 *	Human Activity Recognition Using Smart Phone Data (Accuracy: 98%, F1 Score (1 – 0.96)
 *	Students Stress Levels Classification (Accuracy: 90%, F1 Score (0.87 – 0.85)
 *	General Health Prediction: NHANES 2009–2012 dataset (Accuracy: 75%, F1 Score (0.82 – 0.68)
-*	(link)
-*	
+
 **Regression**
  	
 *	US Health Insurance Charges Prediction (R2: 0.83, MSE: 0.303)
