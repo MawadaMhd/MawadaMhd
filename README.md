@@ -5,9 +5,7 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mawadamhd/)&nbsp;&nbsp;
-  
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mawadamuzzammil)&nbsp;&nbsp;
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mawadamhd12@gmail.com)](mawadamhd12@gmail.com)&nbsp;&nbsp;
 
 
