@@ -1,4 +1,4 @@
-[images.jpg](https://github.com/MawadaMhd/MawadaMhd/blob/main/Images/images.jpg)
+![images.jpg](https://github.com/MawadaMhd/MawadaMhd/blob/main/Images/images.jpg)
 
 <h1 align="center">Hello there 👋! I'm Mawada Muzzammil</h1>
 
