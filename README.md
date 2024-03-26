@@ -20,7 +20,7 @@
 * Proficient in python programming language
 * Proven track record of developing predictive models
 * Strong problem-solving skills and a passion for continuous learning and professional development
-* 
+
 # **EDUCATION**
 
 **University of Khartoum – 2023**
