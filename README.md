@@ -66,7 +66,9 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 
 **Algorthm:** Bidirectional LSTM
 
-<img scr = (https://github.com/MawadaMhd/NLP/blob/main/Singapore%20Airlines%20Reviews/Capture.JPG) wigth ="300">
+
+<img src="(https://github.com/MawadaMhd/NLP/blob/main/Singapore%20Airlines%20Reviews/Capture.JPG)" width="300">
+
 ![Capture](https://github.com/MawadaMhd/NLP/blob/main/Singapore%20Airlines%20Reviews/Capture.JPG)
 
 ## [NLP](https://github.com/MawadaMhd/NLP)
