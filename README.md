@@ -25,9 +25,8 @@
 
 # **EDUCATION**
 
-**University of Khartoum – 2023**
 
-Bachelor's degree (Honors – First class) – Medical Laboratory Science – Histopathology and Cytology Department
+**Bachelor's degree (Honors – First class) – Medical Laboratory Science – Histopathology and Cytology Department**
 
 # **PROJECTS**
 ## Recent Projects:
@@ -41,7 +40,7 @@ Such project's outcomes can be applied in various fields such as market research
 
 ![Emotions](https://github.com/MawadaMhd/NLP/blob/main/Emotions%20Analysis/Emotions.png)
 
-## [**Diabetes Health Indicators**]()
+## [**Diabetes Health Indicators**](https://github.com/MawadaMhd/Classification/tree/main/Diabetes%20Health%20Indicators)
 
 This project involves examining various health indicators and their relationship to diabetes. This project typically includes  analyzing data related to factors such as blood glucose levels, , BMI, blood pressure, cholesterol levels, family history of diabetes, lifestyle habits, and more. The goal of the project is to identify patterns, correlations, and predictive factors that may influence the risk of developing diabetes or the progression of the disease. By applying data science techniques such as data preprocessing, exploratory data analysis, feature engineering, machine learning modeling, and statistical analysis.
 
@@ -81,7 +80,7 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 *	[**Students Stress Levels Classification**](https://github.com/MawadaMhd/Classification/tree/main/Students%20Stress%20Levels%20Classification) (Accuracy: 90%, F1 Score (0.87 – 0.85)
 *	[**General Health Prediction: NHANES 2009–2012 dataset**]() (Accuracy: 75%, F1 Score (0.82 – 0.68)
 
-## [Regression]()
+## [Regression](https://github.com/MawadaMhd/Regression)
  	
 *	[**US Health Insurance Charges Prediction**](https://github.com/MawadaMhd/Regression/tree/main/US%20Health%20Insurance%20Charges%20Prediction) (R2: 0.83, MSE: 0.303)
 *	[**House Price Prediction**](https://github.com/MawadaMhd/Regression/tree/main/House%20Prices%20Advanced%20Regression%20Techniques) (R2: 0.88, MSE: 0.01)
@@ -96,7 +95,7 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
  * [**Mental Health Dataset Analysis**:](https://github.com/MawadaMhd/NLP/tree/main/Mental%20Health) RSF, MultinomialNB
 
 
-## Clustering
+## [Clustering](https://github.com/MawadaMhd/Unsupervised-Machine-Learning)
 
 * [**Credit Card Clustering**](https://github.com/MawadaMhd/Unsupervised-Machine-Learning/tree/main/Credit%20%20Card%20Clustering)
 * [**Customers Segmentation**](https://github.com/MawadaMhd/Unsupervised-Machine-Learning/tree/main/Customers%20Segmentation)
