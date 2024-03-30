@@ -41,6 +41,13 @@ Such project's outcomes can be applied in various fields such as market research
 
 ![Emotions](https://github.com/MawadaMhd/NLP/blob/main/Emotions%20Analysis/Emotions.png)
 
+## [**Diabetes Health Indicators**]()
+
+This project involves examining various health indicators and their relationship to diabetes. This project typically includes  analyzing data related to factors such as blood glucose levels, , BMI, blood pressure, cholesterol levels, family history of diabetes, lifestyle habits, and more. The goal of the project is to identify patterns, correlations, and predictive factors that may influence the risk of developing diabetes or the progression of the disease. By applying data science techniques such as data preprocessing, exploratory data analysis, feature engineering, machine learning modeling, and statistical analysis.
+
+**Algorthms:** RFC, f1 score(0.92, 0.95)
+
+![Diabetes](https://github.com/MawadaMhd/Classification/blob/main/Diabetes%20Health%20Indicators/Diabetes.jpeg)
 
 ## [**Apple Stock Price Prediction**](https://github.com/MawadaMhd/Time-Series-Analysis/tree/main/Apple%20Stock%20Price%20Prediction)
 Forecasting Apple stock prices involves utilizing historical data, economic indicators, and industry trends to predict the future movements of the company's shares. Using techniques such as machine learning, deep neural networks, and time series analysis, analysts can leverage past stock performance, financial reports, and market events to generate predictive models. While stock price predictions do not guarantee absolute accuracy, they provide valuable insights for investors to make informed decisions. By employing analytical tools and key influencing factors, predicting Apple stock prices can help anticipate potential fluctuations in the market.
@@ -51,9 +58,23 @@ Forecasting Apple stock prices involves utilizing historical data, economic indi
 
 ![TSA](https://github.com/MawadaMhd/Time-Series-Analysis/blob/main/Apple%20Stock%20Price%20Prediction/TSA.jpg)
 
-**NLP**
+## [**Singapore Airlines Reviews**](https://github.com/MawadaMhd/NLP/tree/main/Singapore%20Airlines%20Reviews)
 
-## [Classification](https://github.com/MawadaMhd/Classification)
+In this project, Natural Language Processing (NLP) techniques are employed to analyze and derive insights from customer reviews and feedback related to Singapore Airlines services. The project focuses on processing and understanding the sentiments, opinions, and experiences shared by passengers through written reviews.
+Using sentiment analysis and topic modeling, valuable information were extracted from the text data to identify recurring themes and sentiments. By categorizing reviews based on positive, negative, or neutral sentiments, the project aims to gauge customer satisfaction levels and highlight specific aspects of the airline's services that are praised or criticized.
+The outcomes of this analysis can help Singapore Airlines to gain a comprehensive understanding of customer perceptions, identify trends in feedback, and make data-driven decisions to enhance their services, improve customer satisfaction, and maintain a competitive edge in the airline industry. Additionally, insights from this project can be valuable for marketing strategies, operational improvements, and customer experience enhancement initiatives.
+
+**Algorthm:** Bidirectional LSTM
+
+![air](https://github.com/MawadaMhd/NLP/blob/main/Singapore%20Airlines%20Reviews/air.jpg)
+
+## [NLP](https://github.com/MawadaMhd/NLP)
+
+ * [**Emotions Analysis**:](https://github.com/MawadaMhd/NLP/tree/main/Emotions%20Analysis) Bidirectional GRU
+ * [**Singapore Airlines Reviews:**](https://github.com/MawadaMhd/NLP/tree/main/Singapore%20Airlines%20Reviews) Bidirectional LSTM
+ * [**Mental Health Dataset Analysis**:](https://github.com/MawadaMhd/NLP/tree/main/Mental%20Health) RSF, MultinomialNB
+
+## [Classification](https://github.com/MawadaMhd/Classification):
 
 *	Tumors Benign\Malignant Classification (Accuracy: 99%, F1 Score (0.98, 0.99)
 *	[Cardiovascular Disease Prediction (Accuracy: 98%, F1 Score (0.98, 0.99)](https://github.com/MawadaMhd/Classification/tree/main/Cardiovascular%20Disease%20Predictive%20Modelling)
@@ -77,7 +98,8 @@ Forecasting Apple stock prices involves utilizing historical data, economic indi
 
 **Clustering** 
 
-**Time-Series Analysis**
+## [Time-Series Analysis](https://github.com/MawadaMhd/Time-Series-Analysis)
+* [**Apple Stock Price Prediction**](https://github.com/MawadaMhd/Time-Series-Analysis/tree/main/Apple%20Stock%20Price%20Prediction)
 
 
 RESEARCH PROJECTS
