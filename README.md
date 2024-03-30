@@ -31,6 +31,17 @@ Bachelor's degree (Honors – First class) – Medical Laboratory Science – Hi
 
 # **PROJECTS**
 ## Recent Projects:
+
+## [**Emotions Analysis**](https://github.com/MawadaMhd/NLP/tree/main/Emotions%20Analysis)
+
+An emotion analysis NLP data science project involves utilizing Natural Language Processing (NLP) techniques to analyze and understand emotions expressed in textual data. By applying sentiment analysis, text classification, and other NLP methods, this project aims to extract and interpret emotional cues, sentiments, and tones present in the text.
+Such project's outcomes can be applied in various fields such as market research, social media analysis, customer feedback analysis, mental health assessment, and sentiment monitoring. The insights gained from emotion analysis using NLP can help organizations enhance customer experience, tailor marketing strategies, improve mental health support systems, and gain a better understanding of public sentiment towards products, services, or events.
+
+**Algorthms:** Bidirectional GRU
+
+![Emotions](https://github.com/MawadaMhd/NLP/blob/main/Emotions%20Analysis/Emotions.png)
+
+
 ## [**Apple Stock Price Prediction**](https://github.com/MawadaMhd/Time-Series-Analysis/tree/main/Apple%20Stock%20Price%20Prediction)
 Forecasting Apple stock prices involves utilizing historical data, economic indicators, and industry trends to predict the future movements of the company's shares. Using techniques such as machine learning, deep neural networks, and time series analysis, analysts can leverage past stock performance, financial reports, and market events to generate predictive models. While stock price predictions do not guarantee absolute accuracy, they provide valuable insights for investors to make informed decisions. By employing analytical tools and key influencing factors, predicting Apple stock prices can help anticipate potential fluctuations in the market.
 
