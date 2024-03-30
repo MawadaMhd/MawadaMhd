@@ -30,6 +30,14 @@
 Bachelor's degree (Honors – First class) – Medical Laboratory Science – Histopathology and Cytology Department
 
 # **PROJECTS**
+## Recent Projects:
+## [**Apple Stock Price Prediction**](https://github.com/MawadaMhd/Time-Series-Analysis/tree/main/Apple%20Stock%20Price%20Prediction)
+Forecasting Apple stock prices involves utilizing historical data, economic indicators, and industry trends to predict the future movements of the company's shares. Using techniques such as machine learning, deep neural networks, and time series analysis, analysts can leverage past stock performance, financial reports, and market events to generate predictive models. While stock price predictions do not guarantee absolute accuracy, they provide valuable insights for investors to make informed decisions. By employing analytical tools and key influencing factors, predicting Apple stock prices can help anticipate potential fluctuations in the market.
+
+**Algorithm:** LSTM, GRU
+
+**Result:**  GRU, RMSE = 2.41
+[TSA](https://github.com/MawadaMhd/Time-Series-Analysis/blob/main/Apple%20Stock%20Price%20Prediction/TSA.jpg)
 
 **NLP**
 
