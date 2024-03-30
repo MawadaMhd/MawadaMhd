@@ -69,7 +69,7 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 
 <img src="(https://github.com/MawadaMhd/NLP/blob/main/Singapore%20Airlines%20Reviews/Capture.JPG)" width="300">
 
-![Capture](https://github.com/MawadaMhd/NLP/blob/main/Singapore%20Airlines%20Reviews/Capture.JPG)
+![Capture](https://github.com/MawadaMhd/NLP/blob/main/Singapore%20Airlines%20Reviews/Capture.JPG){:width="300px"}
 
 ## [NLP](https://github.com/MawadaMhd/NLP)
 
