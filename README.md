@@ -70,23 +70,23 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 
 ## [Classification](https://github.com/MawadaMhd/Classification):
 
-*	[**Tumors Benign\Malignant Classification**]() (Accuracy: 99%, F1 Score (0.98, 0.99)
-*	[**Cardiovascular Disease Prediction**](Accuracy: 98%, F1 Score (0.98, 0.99)](https://github.com/MawadaMhd/Classification/tree/main/Cardiovascular%20Disease%20Predictive%20Modelling)
-*	[**Obesity Level Prediction**]() (Accuracy: 91%, F1 Score (0.91, 0.89)
-*	[**Adults Income Prediction**]() (Accuracy: 82.5%, F1 Score (0.82, 0.82)
-*	[**Cervical Cancer Prediction**]() (Accuracy: 95%, F1 Score (0.97, 0.69)
-*	[**Credit Card Fraud Detection**]() (Accuracy: 93%, F1 Score (0.96, 0.97)
-*	[**Diabetes Health Indicators**]() (Accuracy: 75%, F1 Score (0.75, 0.74)	
-*	[**Human Activity Recognition Using Smart Phone Data**]() (Accuracy: 98%, F1 Score (1 – 0.96)
-*	[**Students Stress Levels Classification**] (Accuracy: 90%, F1 Score (0.87 – 0.85)
+*	[**Tumors Benign\Malignant Classification**](https://github.com/MawadaMhd/Classification/tree/main/Tumors%20BenignMalignant%20Classification%2096) (Accuracy: 99%, F1 Score (0.98, 0.99)
+*	[**Cardiovascular Disease Prediction**](https://github.com/MawadaMhd/Classification/tree/main/Cardiovascular%20Disease%20Predictive%20Modelling) (Accuracy: 98%, F1 Score (0.98, 0.99)
+*	[**Obesity Level Prediction**](https://github.com/MawadaMhd/Classification/tree/main/Obesity%20Level%20Predictive%20Models) (Accuracy: 91%, F1 Score (0.91, 0.89)
+*	[**Adults Income Prediction**](https://github.com/MawadaMhd/Classification/tree/main/Adults%20Income%20Prediction) (Accuracy: 82.5%, F1 Score (0.82, 0.82)
+*	[**Cervical Cancer Prediction**](https://github.com/MawadaMhd/Classification/tree/main/Cervical%20Cancer%20Prediction) (Accuracy: 95%, F1 Score (0.97, 0.69)
+*	[**Credit Card Fraud Detection**](https://github.com/MawadaMhd/Classification/tree/main/Credit%20Card%20Fraud%20Detection) (Accuracy: 93%, F1 Score (0.96, 0.97)
+*	[**Diabetes Health Indicators**](https://github.com/MawadaMhd/Classification/tree/main/Diabetes%20Health%20Indicators) (Accuracy: 94%, F1 Score (0.92, 0.95)	
+*	[**Human Activity Recognition Using Smart Phone Data**](https://github.com/MawadaMhd/Classification/tree/main/Human%20Activity%20Recognition%20using%20smart%20phone%20data) (Accuracy: 98%, F1 Score (1 – 0.96)
+*	[**Students Stress Levels Classification**](https://github.com/MawadaMhd/Classification/tree/main/Students%20Stress%20Levels%20Classification) (Accuracy: 90%, F1 Score (0.87 – 0.85)
 *	[**General Health Prediction: NHANES 2009–2012 dataset**]() (Accuracy: 75%, F1 Score (0.82 – 0.68)
 
 ## [Regression]()
  	
-*	[**US Health Insurance Charges Prediction**]() (R2: 0.83, MSE: 0.303)
-*	[**House Price Prediction**]() (R2: 0.88, MSE: 0.01)
-*	[**Life Expectancy Prediction**]() (R2: 0.90, MSE: 13.4)
-*	[**House Price Prediction**]() (R2: 0.866, MSE: 0.0012)
+*	[**US Health Insurance Charges Prediction**](https://github.com/MawadaMhd/Regression/tree/main/US%20Health%20Insurance%20Charges%20Prediction) (R2: 0.83, MSE: 0.303)
+*	[**House Price Prediction**](https://github.com/MawadaMhd/Regression/tree/main/House%20Prices%20Advanced%20Regression%20Techniques) (R2: 0.88, MSE: 0.01)
+*	[**Life Expectancy Prediction**](https://github.com/MawadaMhd/Regression/tree/main/Life%20Expectancy%20Prediction) (R2: 0.90, MSE: 13.4)
+*	[**Melbourne House Price Prediction**](https://github.com/MawadaMhd/Regression/tree/main/Melbourne%20Housing%20Price%20Prediction) (R2: 0.866, MSE: 0.0012)
 
 
 ## [NLP](https://github.com/MawadaMhd/NLP)
@@ -96,7 +96,11 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
  * [**Mental Health Dataset Analysis**:](https://github.com/MawadaMhd/NLP/tree/main/Mental%20Health) RSF, MultinomialNB
 
 
-**Clustering** 
+## Clustering
+
+* [**Credit Card Clustering**](https://github.com/MawadaMhd/Unsupervised-Machine-Learning/tree/main/Credit%20%20Card%20Clustering)
+* [**Customers Segmentation**](https://github.com/MawadaMhd/Unsupervised-Machine-Learning/tree/main/Customers%20Segmentation)
+* [**Customers Sentiment Clustering**](https://github.com/MawadaMhd/Unsupervised-Machine-Learning/tree/main/Customers%20Sentiment%20Clustering)
 
 ## [Time-Series Analysis](https://github.com/MawadaMhd/Time-Series-Analysis)
 * [**Apple Stock Price Prediction**](https://github.com/MawadaMhd/Time-Series-Analysis/tree/main/Apple%20Stock%20Price%20Prediction)
