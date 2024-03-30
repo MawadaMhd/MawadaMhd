@@ -38,7 +38,7 @@ Forecasting Apple stock prices involves utilizing historical data, economic indi
 
 **Result:**  GRU, RMSE = 2.41
 
-[TSA](https://github.com/MawadaMhd/Time-Series-Analysis/blob/main/Apple%20Stock%20Price%20Prediction/TSA.jpg)
+![TSA](https://github.com/MawadaMhd/Time-Series-Analysis/blob/main/Apple%20Stock%20Price%20Prediction/TSA.jpg)
 
 **NLP**
 
