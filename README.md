@@ -105,9 +105,10 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 * [**Apple Stock Price Prediction**](https://github.com/MawadaMhd/Time-Series-Analysis/tree/main/Apple%20Stock%20Price%20Prediction)
 
 ## [Deep learning]()
+* [**Disease Prediction**:](https://github.com/MawadaMhd/Deep-Learning/tree/main/Disease%20Prediction) ANN
 * [**Emotions Analysis**:](https://github.com/MawadaMhd/NLP/tree/main/Emotions%20Analysis) Bidirectional GRU
 * [**Singapore Airlines Reviews:**](https://github.com/MawadaMhd/NLP/tree/main/Singapore%20Airlines%20Reviews) Bidirectional LSTM
-* [**Apple Stock Price Prediction**](https://github.com/MawadaMhd/Time-Series-Analysis/tree/main/Apple%20Stock%20Price%20Prediction)
+* [**Apple Stock Price Prediction**](https://github.com/MawadaMhd/Time-Series-Analysis/tree/main/Apple%20Stock%20Price%20Prediction) LSTM, GRU
 
 
 
