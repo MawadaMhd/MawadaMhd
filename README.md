@@ -115,5 +115,9 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 
 
 
+#### **Visitor Count**
+![Visitor Count](https://profile-counter.glitch.me/{MawadaMhd}/count.svg)
+
+
 RESEARCH PROJECTS
 
