@@ -1,5 +1,7 @@
 ![MLDL.jpg](https://github.com/MawadaMhd/MawadaMhd/blob/main/Images/MLDL.jpg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MawadaMhd&label=Profile%20views&color=0e75b6&style=flat" alt="Mawada Mohammed" /> </p>
+
 <h1 align="center">Hello there 👋! I'm Mawada Muzzammil</h1>
 
 <h3 align="center"><i>Data Scientist and Researcher</i></h3>
