@@ -114,10 +114,16 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 
 
 
+### My Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MawadaMhd&" alt="MawadaMhd" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MawadaMhd&show_icons=true&locale=en&layout=compact" alt="MawadaMhd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MawadaMhd&show_icons=true&locale=en" alt="MawadaMhd" /></p>
 
 #### **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{MawadaMhd}/count.svg)
 
 
-RESEARCH PROJECTS
+
 
