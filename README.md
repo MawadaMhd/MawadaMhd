@@ -190,6 +190,9 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MawadaMhd&show_icons=true&locale=en" alt="MawadaMhd" /></p>
 
+### My Trophies
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MawadaMhd" alt="Mawada Muzzammil" /></a> </p>
+
 #### **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{MawadaMhd}/count.svg)
 
