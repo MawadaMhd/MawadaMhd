@@ -90,6 +90,7 @@
      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img
             src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/matplotlib.png" alt="matplotlib"
             width="40" height="40" /> </a>
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="opencv" width="40" height="40"/> 
   </p>
   
 
