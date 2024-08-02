@@ -9,7 +9,7 @@
 <div align="center">
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mawadamhd12@gmail.com)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](https://mawadamhd12@gmail.com)&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/mawada-mohammed-86765a205/)&nbsp;&nbsp;
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge)](https://www.kaggle.com/mawadamuzzammil)&nbsp;&nbsp;
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@mawadamhd12)](https://medium.com/@mawadamhd12)&nbsp;&nbsp;
@@ -38,6 +38,43 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
     <a href="https://www.anaconda.com/download" target="_blank" rel="noreferrer">
             <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40" /> </a>
+<a href="https://cloud.google.com/document-ai?hl=en" target="_blank" rel="noreferrer">
+        <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/documentai.svg"
+            alt="documentai" width="40" height="40" /> </a>
+
+ <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"
+            alt="fastapi" width="40" height="40" /> </a>
+            
+<a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png" alt="huggingface" width="40" height="40" ></a>
+    <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40" ></a>
+    <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/keras.png" alt="keras" width="40" height="40" ></a>
+ </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
+            width="40" height="40" /> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/streamlit.png" alt="streamlit" width="40" height="40" /> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
+            height="40" /> </a>
+    <a href="https://cloud.google.com/vertex-ai?hl=en" target="_blank" rel="noreferrer">
+        <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/vertexai.png" alt="vertexai" width="40"
+            height="40" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"
+            height="40" /> </a>
+    </p>
+  
 
 # **PROJECTS**
 ## Recent Projects:
