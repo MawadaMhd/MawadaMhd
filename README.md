@@ -1,11 +1,11 @@
 ![MLDL.jpg](https://github.com/MawadaMhd/MawadaMhd/blob/main/Images/MLDL.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MawadaMhd&label=Profile%20views&color=0e75b6&style=flat" alt="Mawada Mohammed" 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MawadaMhd&label=Profile%20views&color=0e75b6&style=flat" alt="Mawada Mohammed"  </p>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%207%20mins-blue)
     
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.6%20million%20lines%20of%20code-blue)
-/> </p>
+
 
 <h1 align="center">Hello there 👋! I'm Mawada Muzzammil</h1>
 
