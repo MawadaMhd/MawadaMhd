@@ -1,10 +1,5 @@
 ![MLDL.jpg](https://github.com/MawadaMhd/MawadaMhd/blob/main/Images/MLDL.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MawadaMhd&label=Profile%20views&color=0e75b6&style=flat" alt="Mawada Mohammed"  </p>
-
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%207%20mins-blue)
-    
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.6%20million%20lines%20of%20code-blue)
 
 
 <h1 align="center">Hello there 👋! I'm Mawada Muzzammil</h1>
@@ -25,6 +20,10 @@
 </div>
 
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MawadaMhd&label=Profile%20views&color=0e75b6&style=flat" alt="Mawada Mohammed"  </p>
+
+
 
 # **SUMMARY**
 
@@ -179,7 +178,13 @@ The outcomes of this analysis can help Singapore Airlines to gain a comprehensiv
 
 
 ### My Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MawadaMhd&" alt="MawadaMhd" /></p>
+
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%207%20mins-blue)
+    
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.6%20million%20lines%20of%20code-blue)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MawadaMhd" alt="MawadaMhd" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MawadaMhd&show_icons=true&locale=en&layout=compact" alt="MawadaMhd" /></p>
 
