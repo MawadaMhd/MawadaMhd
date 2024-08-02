@@ -23,15 +23,21 @@
 
 # **SUMMARY**
 
-* A dedicated Data Scientist with a strong background in statistical analysis, machine learning, data visualization, and biomedical research
-* Proficient in python programming language
-* Proven track record of developing predictive models
-* Strong problem-solving skills and a passion for continuous learning and professional development
+#### Highly skilled and experienced Data Scientist with a deep understanding of machine learning, deep learning, and dataanalysis. Proven ability to extract insights from complex data sets and develop predictive models to solve businessproblems. Seeking a challenging role where I can leverage my expertise to drive innovation and improve decision-making.
 
 # **EDUCATION**
 
+**University of Khartoum**
 
 **Bachelor's degree (Honors – First class) – Medical Laboratory Science – Histopathology and Cytology Department**
+
+# **Languges and Tools**
+
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
+    <a href="https://www.anaconda.com/download" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40" /> </a>
 
 # **PROJECTS**
 ## Recent Projects:
