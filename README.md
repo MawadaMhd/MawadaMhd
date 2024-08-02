@@ -8,10 +8,9 @@
 
 <div align="center">
   
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)(https://www.linkedin.com/in/mawadamhd/)&nbsp;&nbsp;
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/mawadamhd/)&nbsp;&nbsp;
 ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge)](https://www.kaggle.com/mawadamuzzammil)&nbsp;&nbsp;
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)]
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)(mawadamhd12@gmail.com)&nbsp;&nbsp;
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](mawadamhd12@gmail.com)&nbsp;&nbsp;
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@mawadamhd12)](https://medium.com/@mawadamhd12)&nbsp;&nbsp;
 
 
