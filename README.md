@@ -57,18 +57,17 @@
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40" ></a>
     <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/keras.png" alt="keras" width="40" height="40" ></a>
-
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
             width="40" height="40" /> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
-    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
         <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/streamlit.png" alt="streamlit" width="40" height="40" /> </a>
-       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a>
-    <a href="https://cloud.google.com/vertex-ai?hl=en" target="_blank" rel="noreferrer">
+<a href="https://cloud.google.com/vertex-ai?hl=en" target="_blank" rel="noreferrer">
         <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/vertexai.png" alt="vertexai" width="40"
             height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -92,8 +91,7 @@
      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img
             src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/matplotlib.png" alt="matplotlib"
             width="40" height="40" /> </a>
-  
-    </p>
+  </p>
   
 
 # **PROJECTS**
